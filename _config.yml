@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://budgetpetworld.github.io
+title: Pet Supplies & Pet Care Services - BudgetPetWorld
+tagline: Pet Health & Pet Care Services
+description: My awesome new site
+paginate: 5
